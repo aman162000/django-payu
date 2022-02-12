@@ -27,7 +27,7 @@ setup(
     include_package_data=True,
     description='A simple PayU app for Django.',
     long_description=README,
-    url='https://github.com/MicroPyramid/django-payu',
+    url='https://github.com/aman162000/django-payu',
     author='Ashwin Kumar',
     author_email='ashwin@micropyramid.com',
     classifiers=[
